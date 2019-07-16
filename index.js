@@ -26,8 +26,8 @@ var funkyFunction = function() {
 }
 
 
-var lala = funkyFunction()
-var theFunk = lala()
+var funk = funkyFunction()
+var theFunk = funk()
 
 
 
